@@ -1,0 +1,178 @@
+.btn-header-right {
+  position: absolute;
+  right: 0;
+  transform: translate(-50%, 0);
+}
+
+.select2 {
+  max-width: 100%;
+  width: 100% !important;
+}
+
+.select2-selection__rendered {
+  padding-bottom: 5px !important;
+}
+
+.has-error .invalid-feedback {
+  display: block !important;
+}
+
+.select2-results__option {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.select2-selection__choice {
+  border-radius: 25px;
+}
+
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+  border: solid #ced4da 1px;
+  outline: 0;
+  line-height: 20px;
+  padding-bottom: 0;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered {
+  box-sizing: border-box;
+  list-style: none;
+  margin: 0;
+  padding: 0 5px;
+  width: 100%;
+  padding-bottom: 0 !important;
+}
+
+.select-all i,
+.deselect-all i {
+  font-weight: bold;
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+  background-color: #eaeaea;
+  color: #545454;
+  padding: 5px;
+}
+
+.select2-dropdown {
+  background-color: white;
+  border: 1px solid #e5e5e5;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+  border-radius: 25px;
+}
+
+.table-footer .dataTables_paginate {
+  float: left;
+  width: 70%;
+}
+
+.table-footer .dataTables_length {
+  float: left;
+  width: 30%;
+}
+
+.table-footer .dataTables_info {
+  float: left;
+  width: 100%;
+}
+
+.table-header .dt-buttons {
+  float: left;
+  margin-bottom: 10px;
+}
+
+.table-header .dt-buttons .buttons-copy {
+  margin-left: 0;
+}
+
+.table-header .dataTables_filter {
+  float: right;
+  margin-right: 0;
+}
+
+table.dataTable tbody tr.selected,
+table.dataTable tbody th.selected,
+table.dataTable tbody td.selected {
+  color: initial !important;
+}
+
+table.dataTable tbody > tr.selected,
+table.dataTable tbody > tr > .selected {
+  background-color: #bcd3e3 !important;
+}
+
+table th,
+.table td {
+  padding: 0.5rem !important;
+  vertical-align: middle !important;
+}
+
+table.dataTable tbody td.select-checkbox:before,
+table.dataTable tbody th.select-checkbox:before {
+  margin-top: 1px !important;
+}
+
+table.dataTable tr.selected td.select-checkbox:after,
+table.dataTable tr.selected th.select-checkbox:after {
+  margin-top: -1px !important;
+}
+
+.actions-1 {
+  width: 50px;
+}
+
+.actions-2 {
+  width: 100px;
+}
+
+.actions-3 {
+  width: 150px;
+}
+
+.actions-4 {
+  width: 200px;
+}
+
+.actions-5 {
+  width: 250px;
+}
+
+.helper-block {
+  font-size: 10px;
+  font-style: italic;
+}
+
+.layout-horizontal-bar .header-topnav .topnav ul.menu > li.active {
+  background: #f5f5f5;
+}
+
+.auth-layout-wrap {
+  background-position: 50% !important;
+}
+
+.auth-logo img {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.layout-sidebar-large .main-header .logo img,
+.layout-horizontal-bar .main-header .logo img {
+  width: calc(100% - 20px) !important;
+  height: auto !important;
+}
+
+.date-picker-button {
+  /* margin-left: 10px; */
+  z-index: 99;
+  margin-top: 0px;
+  /* border: 1px solid; */
+  width: 35px;
+  text-align: center;
+  line-height: 35px;
+  border-left: 0;
+  border-radius: 0 5px 5px 0;
+  color: #FFF;
+  background: #20a8d8;
+}
+

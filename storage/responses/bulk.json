@@ -1,0 +1,66 @@
+{
+    "product_code":"ML-000421","catalog_code":"catalogo 421",
+    "product_data": {
+        "title": "De la pobreza al éxito",
+        "price": [
+            {
+                "value": "100.20",
+                "currency": "ARS",
+                "currencyType": null,
+                "discountValue": null
+            },
+            {
+                "value": "50.60",
+                "currency": "BRL",
+                "currencyType": null,
+                "discountValue": null
+            }
+        ],
+        "available_quantity": 20,
+        "buying_mode": "buy_it_now",
+        "condition": "new",
+        "description": {
+            "plain_text": "Description"
+        },
+        "category": {
+            "es": {
+                "slug": "libros",
+                "name": "Libros"
+            },
+            "pt": {
+                "slug": "livros",
+                "name": "Livros"
+            }
+        },
+        "pictures": [
+            {
+                "source": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/4/90519236-7a8a-4c6e-bb6b-860c92317935/mediamodifier97ded40e2a4.jpg"
+            },
+            {
+                "source": "https://data.livriz.com/media/MediaSpace/F9AFB48D-741D-4834-B760-F59344EEFF34/4/90519236-7a8a-4c6e-bb6b-860c92317935/9789874743664.jpg"
+            }
+        ],
+        "listing_type": "3",
+        "attributes": {
+            "productFormat": "Tapa blanda o bolsillo",
+            "gender": {
+                "es": "Autoayuda",
+                "pt": "Autoajuda"
+            },
+            "subgender": {
+                "es": "Desarrollo personal y consejos prácticos",
+                "pt": "Desenvolvimento pessoal e conselhos práticos"
+            },
+            "productFormatDetail": "Trade paperback(EE.UU.)",
+            "countryCode": "AR",
+            "language": "spa",
+            "publisher": "Del Fondo Editorial",
+            "publicationDate": "20201211",
+            "printer": "Valkiria",
+            "author": "James Allen",
+            "numberOfPieces": null,
+            "numberOfPages": "180",
+            "format": "papel"
+        }
+    }
+}
